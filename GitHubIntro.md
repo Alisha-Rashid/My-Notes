@@ -1,0 +1,2 @@
+My teammate assisted me in creating a GitHub account today while I studied the basics of the platform. I think it was difficult for me at first and I didn't learn it, but my teammate was really encouraging and supportive and she helped me a lot. Today was a great day for me because I learned a lot about GitHub. I'm eager to work with each of you.
+Despite the fact that I'm not a naturraly talktative person, I've learnt since working here that good communication skills are necessary for all kinds of jobs.
