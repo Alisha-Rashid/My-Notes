@@ -1,0 +1,9 @@
+1. First find the suitable images for your project then resize it and save it in File explorer.
+2. Then open your forked repository and go on gh-pages.
+3. Go to Index.html file and then open the location of image and replace existing text to new image like; images/upload/___ 
+4. Commit changes add proper title with issue# and description and create a Pull request in the new branch. 
+5. Create a pull request in it and compare across forks to make sure base reporository is notehive/silkcorp with gh-pages and on other side your repo
+6. Go back to you PR after creating it and click on the link given in the PR. Click on three dots and edit the file. 
+7. Go to the "Code" and images, upload, and choose files and upload the new pic you chose. 
+8. Give proper title with well description and mention issue# as well. 
+9. Commit this one directly in Alisha-Rashid-branch-___
